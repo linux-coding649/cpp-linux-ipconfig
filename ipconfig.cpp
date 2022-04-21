@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-cout << "Debian Linux IPCONFIG" << endl;
+cout << "Linux IPCONFIG" << endl;
 string task;
 cout << "Task [listaddress|listinterfaces|listall|renew|flush|ipaddradd]:";
 cin >> task;
